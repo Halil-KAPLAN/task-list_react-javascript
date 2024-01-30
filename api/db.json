@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1338",
+      "title": "User Login and Profile Creation",
+      "desc": "Create a login screen for users to access the application. Additionally, enable the creation of user profiles, gathering basic user information during the registration process."
+    },
+    {
+      "id": "1332",
+      "title": "Task Addition and Editing",
+      "desc": "Provide users with an interface to add new tasks and edit existing ones. The interface should include essential information about tasks, such as the task name, priority status, date, and notes!"
+    },
+    {
+      "id": "1334",
+      "title": "Notification System",
+      "desc": "Develop a notification system that sends reminders to users when a specific task's deadline is approaching or when a reminder is set for a task. This ensures that users do not miss important dates related to their tasks"
+    }
+  ]
+}

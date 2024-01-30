@@ -1,0 +1,49 @@
+.TaskItem {
+  border: 1px solid green;
+  border-radius: 20px;
+  width: 250px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.TaskItem button {
+  padding: 5px 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  color: white;
+  margin: 10px 5px;
+}
+
+.TaskItem h3 {
+  margin-bottom: 0;
+}
+
+.taskDeleteButton {
+  background-color: red;
+}
+
+.taskUpdateButton {
+  background-color: green;
+}
+
+.TaskItem input,
+.TaskItem textarea {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  resize: vertical;
+}
+
+.TaskItem label {
+  margin: 10px 0;
+}
+
+.taskChangeButton {
+  background-color: blueviolet;
+  width: 200px;
+}
