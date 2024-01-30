@@ -2,10 +2,6 @@
 
 It is a listing example I prepared with React. I used Context Api and json server.
 
-This example is published on the following site. You can check:
-
-https://??
-
 ## Tech Stack
 
 **Client:** React(Vite), Javascript
